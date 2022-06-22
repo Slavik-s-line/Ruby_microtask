@@ -12,10 +12,10 @@ These instructions will get you a copy of the project up and running on your loc
 This script works on all operating systems, but OS X or Linux is preferred.
 
 ### First run
-First, fork the repository.
+1. Fork the repository.
 
-Then, go into your favorite code editor and open repository from GitHub as Progect.
+2. Go into your favorite code editor and open repository from GitHub as Progect.
 
-At the and, run script.rb
+3. Run script.rb
 
-If you have done correct, you will see the output of the script in terminal.
+>If you have done correct, you will see the output of the script in terminal.
