@@ -3,7 +3,9 @@ First exercise in internship.
 
 The program outputs the result of a simple math operation.
 
-`puts 1 + 5`
+```
+puts 1 + 5
+```
 
 Also, there are bash script, that print greeting in SHELL.
 
