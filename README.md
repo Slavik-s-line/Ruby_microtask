@@ -5,6 +5,11 @@ The program outputs the result of a simple math operation.
 
 `puts 1 + 5`
 
+Also, there are bash script, that print greeting in SHELL.
+
+`#!/bin/zsh
+echo "HELLO_COURSE"`
+
 ## Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
