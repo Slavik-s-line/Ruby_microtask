@@ -15,10 +15,4 @@ First, fork the repository.
 Then, go into your favorite code editor and open repository from GitHub as Progect.
 At the and, run script.rb
 
-That's it, you will see the output of the script in terminal. 
-
-
-## Contributing
-
-If you want to change or add something you are free to do so.
-Pull requests are welcome. 
+If you have done correct, you will see the output of the script in terminal.
