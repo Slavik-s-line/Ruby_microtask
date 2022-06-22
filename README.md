@@ -1,4 +1,4 @@
-# Ruby_microtask
+## Ruby_microtask
 First exercise in internship.
 
 The program outputs the result of a simple math operation.
@@ -8,14 +8,14 @@ The program outputs the result of a simple math operation.
 ## Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### Prerequisites
+## Prerequisites
 This script works on all operating systems, but OS X or Linux is preferred.
 
-### First run
+## First run
 1. Fork the repository.
 
 2. Go into your favorite code editor and open repository from GitHub as Progect.
 
 3. Run script.rb
 
->If you have done correct, you will see the output of the script in terminal.
+If you have done correct, you will see the output of the script in terminal.
