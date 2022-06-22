@@ -1,8 +1,8 @@
 # Ruby_microtask
 First exercise in internship
 The program outputs the result of a simple math operation.
-`puts 1 + 5`
 
+`puts 1 + 5`
 
 ## Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
