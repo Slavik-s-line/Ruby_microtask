@@ -7,8 +7,8 @@ The program outputs the result of a simple math operation.
 
 Also, there are bash script, that print greeting in SHELL.
 
-`#!/bin/zsh
-echo "HELLO_COURSE"`
+`#!/bin/zsh`
+`echo "HELLO_COURSE"`
 
 ## Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
@@ -21,6 +21,6 @@ This script works on all operating systems, but OS X or Linux is preferred.
 
 2. Go into your favorite code editor and open repository from GitHub as Progect.
 
-3. Run script.rb
+3. Run script.rb or bash_script.sh.
 
 If you have done correct, you will see the output of the script in terminal.
